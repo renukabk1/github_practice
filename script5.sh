@@ -1,1 +1,2 @@
-This is script 5
+#!/bin/bash
+hostname

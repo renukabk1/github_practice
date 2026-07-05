@@ -1,1 +1,2 @@
-This is script 3
+#!/bin/bash
+whoami

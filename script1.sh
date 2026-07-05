@@ -1,1 +1,2 @@
-This is script 1
+#!/bin/bash
+pwd

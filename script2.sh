@@ -1,1 +1,2 @@
-This is script 2
+#!/bin/bash
+date
